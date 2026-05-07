@@ -18,7 +18,5 @@ All source code, designs, and algorithms within the app are the intellectual pro
 
 ## 5. Changes to Terms
 This policy is effective as of 2025-05-01.
-
 I may update these Terms from time to time. Your continued use of the app following any changes constitutes acceptance of those changes.
-
 Contact Us: > If you have any questions, contact me at greeeneyedcat(at)gmail(dot)com.
