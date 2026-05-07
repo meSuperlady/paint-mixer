@@ -1,4 +1,4 @@
-Green-eyed Cat built the Paint Mixer app as a Free app. This SERVICE is provided by Green-eyed Cat at no cost and is intended for use as is.
+Volha Zykava (hereinafter referred to as I or we) built the Paint Mixer app (hereinafter referred to as Service or the app) as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -8,14 +8,14 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
-
-The app does use third-party services that may collect information used to identify you.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The personal data that I request is stored locally on your device. However, the app uses third-party services that may collect information used to identify you.
 
 Link to the privacy policy of third-party service providers used by the app
 
 - [Google Play Services](https://policies.google.com/privacy)
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+
+The app may use the Android Backup Service to automatically back up your preferences  to your Google account for easy restoration when you reinstall the app.
 
 **Log Data**
 
