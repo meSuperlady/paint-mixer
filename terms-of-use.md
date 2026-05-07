@@ -6,3 +6,17 @@ By downloading or using the app, these terms will automatically apply to you.
 The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Developer makes no warranties, expressed or implied, regarding the accuracy of color mixing results.
 
 **Important:** Digital color representation on screens may significantly differ from physical paint pigments due to lighting, screen calibration, and material properties. The Developer is not responsible for any wasted materials, financial loss, or unsatisfactory results obtained by using the app. Always perform a small test mix before using large quantities of paint.
+
+## 2. Limitation of Liability
+In no event shall the Developer be liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the Service.
+
+## 3. Advertisements
+The Service uses third-party advertisements (AdMob) to fund maintenance and development. The Developer is not responsible for the content of these advertisements or the actions of third-party advertisers.
+
+## 4. Intellectual Property
+All source code, designs, and algorithms within the app are the intellectual property of the Developer. You may not attempt to extract the source code or translate the app into other languages without prior permission.
+
+## 5. Changes to Terms
+I may update these Terms from time to time. Your continued use of the app following any changes constitutes acceptance of those changes.
+
+Contact Us: > If you have any questions, contact me at [Ваш Email].
