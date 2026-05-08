@@ -17,6 +17,8 @@ Link to the privacy policy of third-party service providers used by the app
 
 The app may use the Android Backup Service to automatically back up your preferences  to your Google account for easy restoration when you reinstall the app.
 
+We use RevenueCat to manage subscriptions and in-app purchases. RevenueCat may collect anonymous transaction data (such as receipt information) to validate your purchase. No personally identifiable information like your name or credit card is shared with RevenueCat.
+
 **Payments processing**
 
 Financial transactions are processed by by Google Play Billing Service. We do not have access to your credit card or bank details and we do not collect or store your payment card details. For your subscription to be available on different devices ID of your Google account may be used.
