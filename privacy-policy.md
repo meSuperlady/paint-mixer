@@ -16,6 +16,7 @@ Link to the privacy policy of third-party service providers used by the app
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 The app may use the Android Backup Service to automatically back up your preferences  to your Google account for easy restoration when you reinstall the app.
+We do not collect or store your payment card details. A billing and financial transactions are handled by Google Play Billing.
 
 **Log Data**
 
