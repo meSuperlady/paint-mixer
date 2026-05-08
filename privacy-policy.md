@@ -19,7 +19,7 @@ The app may use the Android Backup Service to automatically back up your prefere
 
 **Payments processing**
 
-Financial transactions are processed by by Google Play Billing Service. We do not have access to your credit card or bank details and we do not collect or store your payment card details.
+Financial transactions are processed by by Google Play Billing Service. We do not have access to your credit card or bank details and we do not collect or store your payment card details. For your subscription to be awailable on different devices ID of your Google account may be used.
 
 **Log Data**
 
