@@ -18,6 +18,7 @@ Link to the privacy policy of third-party service providers used by the app
 The app may use the Android Backup Service to automatically back up your preferences  to your Google account for easy restoration when you reinstall the app.
 
 **Payments processing**
+
 Financial transactions are processed by by Google Play Billing Service. We do not have access to your credit card or bank details and we do not collect or store your payment card details.
 
 **Log Data**
