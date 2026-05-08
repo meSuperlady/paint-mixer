@@ -16,7 +16,7 @@ In no event shall the Developer be liable for any direct, indirect, incidental, 
 Saved colors are stored locally on your device. Clearing app data or uninstalling the app may result in the loss of saved colors.
 
 ## 4. Subscriptions & Billing
-Free version allows you to save up to 5 colors. Subscription removes this limitation and also removes all ads. Subsctiptions are managed and cancelled via Google Play. If your subscription expires previously saved colors over the limit of 5 free colors will not be removed but you will not be able to save additional colors until you renew your subscription. Refunds are made in accordance with Google Play rules.
+Free version allows you to save up to 5 colors. Subscription removes this limitation and also removes all ads. Subsctiptions are managed and cancelled via Google Play. If your subscription expires previously saved colors over the limit of 5 free colors will not be removed but you will not be able to save additional colors until you renew your subscription. Your subscription is linked to your Google account. Access to pro-functions may be restored on any Android device that uses the same Google account via Restore button. Refunds are made in accordance with Google Play rules. 
 
 ## 5. Advertisements
 The Service uses third-party advertisements (AdMob) to fund maintenance and development. The Developer is not responsible for the content of these advertisements or the actions of third-party advertisers.
