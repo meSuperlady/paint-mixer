@@ -12,16 +12,19 @@ The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Developer ma
 ## 2. Limitation of Liability
 In no event shall the Developer be liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the Service.
 
-## 3. Subscriptions & Billing
+## 3. Saved colors
+Saved colors are stored locally on your device. Clearing app data or uninstalling the app may result in the loss of saved colors.
+
+## 4. Subscriptions & Billing
 Free version allows you to save up to 5 colors. Subscription removes this limitation and also removes all ads. Subsctiptions are managed and cancelled via Google Play. If your subscription expires previously saved colors over the limit of 5 free colors will not be removed but you will not be able to save additional colors until you renew your subscription. Refunds are made in accordance with Google Play rules.
 
-## 4. Advertisements
+## 5. Advertisements
 The Service uses third-party advertisements (AdMob) to fund maintenance and development. The Developer is not responsible for the content of these advertisements or the actions of third-party advertisers.
 
-## 5. Intellectual Property
+## 6. Intellectual Property
 All source code, designs, and algorithms within the app are the intellectual property of the Developer. You may not attempt to extract the source code or translate the app into other languages without prior permission.
 
-## 6. Changes to Terms
+## 7. Changes to Terms
 This policy is effective as of 2025-05-01.
 I may update these Terms from time to time. Your continued use of the app following any changes constitutes acceptance of those changes.
 Contact Us: > If you have any questions, contact me at greeeneyedcat(at)gmail(dot)com.
