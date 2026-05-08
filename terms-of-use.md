@@ -13,7 +13,7 @@ The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Developer ma
 In no event shall the Developer be liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the Service.
 
 ## 3. Subscriptions & Billing
-Free version allows you to save up to 5 colors. Subscription removes this limitation. Subsctiptions are managed via Google Play. If your subscription expires previously saved colors over the limit of 5 free colors will not be removed but you will not be able to save additional colors until you renew your subscription.
+Free version allows you to save up to 5 colors. Subscription removes this limitation and also removes all ads. Subsctiptions are managed and cancelled via Google Play. If your subscription expires previously saved colors over the limit of 5 free colors will not be removed but you will not be able to save additional colors until you renew your subscription. Refunds are made in accordance with Google Play rules.
 
 ## 4. Advertisements
 The Service uses third-party advertisements (AdMob) to fund maintenance and development. The Developer is not responsible for the content of these advertisements or the actions of third-party advertisers.
