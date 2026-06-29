@@ -15,19 +15,42 @@ In no event shall the Developer be liable for any direct, indirect, incidental, 
 - Financial loss resulting from reliance on the App’s color formulas or RGB outputs;
 - Any bugs, errors, interruptions, or server-side issues.
 
-## 3. Saved colors
-Saved colors are stored locally on your device. Clearing app data or uninstalling the app may result in the loss of saved colors.
+## 3. Data Storage & Saved colors
+- Local Storage: Your saved colors are stored locally on your specific mobile device.
+- Data Loss: Clearing the App’s cache/data, uninstalling the App, or factory-resetting your device may result in the permanent loss of your saved colors. The Developer does not provide cloud backups for your color history and is not responsible for any lost data.
 
-## 4. Subscriptions & Billing
-Free version allows you to save up to 5 colors. Subscription removes this limitation and also removes all ads. Subsctiptions are managed and cancelled via Google Play. If your subscription expires previously saved colors over the limit of 5 free colors will not be removed but you will not be able to save additional colors until you renew your subscription. Your subscription is linked to your Google account. Access to pro-functions may be restored on any Android device that uses the same Google account via Restore button. Refunds are made in accordance with Google Play rules. 
+## 4. Pro-Features, Subscriptions, In-App Purchases & Billing
+Free version allows you to save up to 5 colors. The App offers a premium version called "Pro", which unlocks unlimited color saving and removes all third-party advertisements.
+- Billing Models: The Pro version can be accessed via:
+1. A recurring auto-renewable subscription (Monthly or Yearly).
+2. A "Lifetime" one-time purchase (non-consumable, non-recurring fee).
 
-## 5. Advertisements
-The Service uses third-party advertisements (AdMob) to fund maintenance and development. The Developer is not responsible for the content of these advertisements or the actions of third-party advertisers.
+- Payment Processing: All transactions, subscriptions, and billing are securely managed and processed via the Google Play Billing API and integrated using RevenueCat. Your purchases are tied directly to your Google Account.
+- Subscriptions Management & Cancellations: Subsctiptions are managed and cancelled via Google Play. Auto-renewable subscriptions automatically renew unless canceled through your Google Play Store account settings at least 24 hours before the end of the current billing period.
+
+- Downgrade Policy (Exceeding Limits): If your subscription expires or is canceled, any previously saved colors exceeding the 5-color Free limit will not be deleted, but you will be blocked from saving any new colors until you either delete existing colors to drop below the limit or renew your Pro status.
+
+- Restoring Purchases: Pro functions can be restored on any compatible Android device using the same Google Account by clicking the "Restore" button within the App.
+
+- Refunds: All refund requests are handled exclusively in accordance with Google Play’s official refund policies and must be requested through the Google Play Store interface.
+
+## 5. Third-Party Services & Advertisements
+The App integrates several third-party services to fund development, track statistics, and manage features. By using the App, you acknowledge and agree to the terms of these third-party providers:
+
+- Advertisements (AdMob & Yandex Advertising Network): The Free version displays various ad formats (including banners and app open ads). The Developer does not curate or guarantee the content of these ads, nor endorse any advertised products or services.
+
+- Analytics (Google Analytics / Firebase): The App uses analytics tools to track user behavior and app performance statistics in real time. This data is non-personally identifiable and helps improve the service.
 
 ## 6. Intellectual Property
-All source code, designs, and algorithms within the app are the intellectual property of the Developer. You may not attempt to extract the source code or translate the app into other languages without prior permission.
+All source code, UI/UX design assets, algorithms, graphics, and trade secrets within the App are the exclusive intellectual property of the Developer. You may not:
+
+- Attempt to decompile, reverse-engineer, or extract the source code of the App.
+
+- Modify, copy, distribute, or create derivative works based on the App.
+
+- Translate or re-brand the App for commercial use without prior written consent from the Developer.
 
 ## 7. Changes to Terms
 This policy is effective as of 2025-05-01.
-I may update these Terms from time to time. Your continued use of the app following any changes constitutes acceptance of those changes.
+The Developer reserves the right to update or modify these Terms of Use at any time. Any changes will become effective immediately upon being posted within the App or on the App's official distribution page. Your continued use of the App following the posting of changes constitutes your binding acceptance of the revised Terms.
 Contact Us: > If you have any questions, contact me at greeeneyedcat(at)gmail(dot)com.
