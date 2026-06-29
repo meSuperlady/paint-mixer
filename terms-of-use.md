@@ -11,9 +11,9 @@ The Service is provided on an "AS IS" and "AS AVAILABLE" basis without warrantie
 
 ## 2. Limitation of Liability
 In no event shall the Developer be liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limieted to:
-#- Loss of profits, data, or materials;
-#- Financial loss resulting from reliance on the App’s color formulas or RGB outputs;
-# -Any bugs, errors, interruptions, or server-side issues.
+- Loss of profits, data, or materials;
+- Financial loss resulting from reliance on the App’s color formulas or RGB outputs;
+- Any bugs, errors, interruptions, or server-side issues.
 
 ## 3. Saved colors
 Saved colors are stored locally on your device. Clearing app data or uninstalling the app may result in the loss of saved colors.
