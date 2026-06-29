@@ -19,7 +19,7 @@ The App relies on the following third-party services, which process data indepen
 - [Google AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Yandex Advertising Network (YAN)](https://yandex.com/legal/confidential/en/)
 - [RevenueCat](https://www.revenuecat.com/privacy)
-- [Google Analytics / Firebase] (https://firebase.google.com/support/privacy?authuser=1)
+- [Google Analytics / Firebase](https://firebase.google.com/support/privacy?authuser=1)
 
 **In-App Purchases & Financial Transactions**
 - Payment Processing: All financial transactions, subscriptions, and one-time purchases (e.g., Monthly, Yearly, Lifetime Pro plans) are processed exclusively by the Google Play Billing Service. The Developer does not collect, access, or store your credit card, bank account details, or billing addresses.
