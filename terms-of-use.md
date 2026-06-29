@@ -1,16 +1,19 @@
 # Terms of Use
-*This document is provided in English to ensure legal consistency. By proceeding, you acknowledge that you understand the terms.*
+*This document is provided in English to ensure legal consistency. By downloading, installing, or using the Paint Mixer mobile application (hereinafter referred to as the "App" or "Service"),you acknowledge that you have read, understood, and agree to be bound by these Terms of Use. If you do not agree to these terms, or if you do not understand these terms, do not use the App.*
 
-These Terms of Use apply to the Paint Mixer app (hereinafter referred to as "Service" or "the app") created by Volha Zykava (hereinafter referred to as "Developer") as a Free service.
+The App is developed and maintained by Volha Zykava (hereinafter referred to as the "Developer").
 By downloading or using the app, these terms will automatically apply to you.
 
-## 1. Disclaimer of Warranties
-The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Developer makes no warranties, expressed or implied, regarding the accuracy of color mixing results.
+## 1. Disclaimer of Warranties & Physical Color Accuracy
+The Service is provided on an "AS IS" and "AS AVAILABLE" basis without warranties of any kind, either express or implied. The Developer makes no warranties, expressed or implied, regarding the accuracy of color mixing results.
 
-**Important:** Digital color representation on screens may significantly differ from physical paint pigments due to lighting, screen calibration, and material properties. The Developer is not responsible for any wasted materials, financial loss, or unsatisfactory results obtained by using the app. Always perform a small test mix before using large quantities of paint.
+**Important:** Digital color representation on electronic screens may significantly differ from real-world physical paint pigments due to lighting conditions, screen calibration, device hardware, and material properties. The Developer is not responsible for any wasted materials, financial loss, property damage, or unsatisfactory results obtained by using the app. Always perform a small test mix before using large quantities of paint.
 
 ## 2. Limitation of Liability
-In no event shall the Developer be liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the Service.
+In no event shall the Developer be liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limieted to:
+#- Loss of profits, data, or materials;
+#- Financial loss resulting from reliance on the App’s color formulas or RGB outputs;
+# -Any bugs, errors, interruptions, or server-side issues.
 
 ## 3. Saved colors
 Saved colors are stored locally on your device. Clearing app data or uninstalling the app may result in the loss of saved colors.
