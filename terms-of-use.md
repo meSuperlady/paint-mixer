@@ -22,8 +22,8 @@ In no event shall the Developer be liable for any direct, indirect, incidental, 
 ## 4. Pro-Features, Subscriptions, In-App Purchases & Billing
 Free version allows you to save up to 5 colors. The App offers a premium version called "Pro", which unlocks unlimited color saving and removes all third-party advertisements.
 - Billing Models: The Pro version can be accessed via:
-1. A recurring auto-renewable subscription (Monthly or Yearly).
-2. A "Lifetime" one-time purchase (non-consumable, non-recurring fee).
+  1. A recurring auto-renewable subscription (Monthly or Yearly).
+  2. A "Lifetime" one-time purchase (non-consumable, non-recurring fee).
 
 - Payment Processing: All transactions, subscriptions, and billing are securely managed and processed via the Google Play Billing API and integrated using RevenueCat. Your purchases are tied directly to your Google Account.
 - Subscriptions Management & Cancellations: Subsctiptions are managed and cancelled via Google Play. Auto-renewable subscriptions automatically renew unless canceled through your Google Play Store account settings at least 24 hours before the end of the current billing period.
@@ -53,4 +53,5 @@ All source code, UI/UX design assets, algorithms, graphics, and trade secrets wi
 ## 7. Changes to Terms
 This policy is effective as of 2025-05-01.
 The Developer reserves the right to update or modify these Terms of Use at any time. Any changes will become effective immediately upon being posted within the App or on the App's official distribution page. Your continued use of the App following the posting of changes constitutes your binding acceptance of the revised Terms.
+
 Contact Us: > If you have any questions, contact me at greeeneyedcat(at)gmail(dot)com.
