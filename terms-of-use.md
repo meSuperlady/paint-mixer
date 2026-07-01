@@ -24,9 +24,10 @@ Free version allows you to save up to 5 colors. The App offers a premium version
 - Billing Models: The Pro version can be accessed via:
   1. A recurring auto-renewable subscription (Monthly or Yearly).
   2. A "Lifetime" one-time purchase (non-consumable, non-recurring fee).
-- Free Trial Period: The Yearly subscription may include a 7-day free trial period (free-trial-7d) for new eligible users, as determined by the Developer and Google Play criteria.
-  - Automatic Conversion: If you sign up for a free trial, you will be automatically charged the full price of the Yearly subscription at the end of the 7-day trial period, unless you cancel the subscription through your Google Play account settings at least 24 hours before the trial ends.
-  - Trial Policy: Free trials are limited to one per user/Google account. If you have previously used a trial for this App, the full subscription fee will be charged immediately upon purchase.
+- Free Trial Period: The Yearly subscription may include a 7-day free trial period for eligible new users, as determined by the Developer and Google Play criteria.
+  - Automatic Conversion: If you activate the 7-day free trial, you will be automatically charged the full price of the Yearly subscription upon the expiration of the trial period, unless you cancel the subscription through your Google Play account settings at least 24 hours before the trial ends.
+  - Subscription Management: Auto-renewal settings and trial cancellations must be managed directly through your Google Play Store account settings.
+  - Trial Policy: Free trials are limited to one per user/Google account. If you have previously activated a trial for this App, the full subscription fee will be charged immediately upon purchase.
 
 - Payment Processing: All transactions, subscriptions, and billing are securely managed and processed via the Google Play Billing API and integrated using RevenueCat. Your purchases are tied directly to your Google Account.
 - Subscriptions Management & Cancellations: Subsctiptions are managed and cancelled via Google Play. Auto-renewable subscriptions automatically renew unless canceled through your Google Play Store account settings at least 24 hours before the end of the current billing period.
